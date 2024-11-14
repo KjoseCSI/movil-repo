@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .cbox {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
